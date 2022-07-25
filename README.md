@@ -12,7 +12,7 @@
 <img align="center" alt="Gus-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Gus-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Gus-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="right" alt="Gus-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1000858323026989078/1000858520243142777/my.png?width=676&height=676">
+<img align="right" alt="Gus-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1000858323026989078/1001125321556373544/img.png?width=676&height=676">
 
 ##
  
