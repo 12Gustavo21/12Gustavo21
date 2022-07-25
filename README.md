@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/12Gustavo21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="300em" src="https://cdn.discordapp.com/attachments/1000858323026989078/1001117110166106192/image.png"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
