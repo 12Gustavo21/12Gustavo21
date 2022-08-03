@@ -1,4 +1,4 @@
-## Olá, sou Gustavo Almeida, bem-vindo(a, e) 😊
+## Olá, sou Gustavo Almeida, bem-vindos 😊
 
 <div align="center">
   <a href="https://github.com/12Gustavo21">
