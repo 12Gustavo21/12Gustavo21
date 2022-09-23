@@ -13,6 +13,7 @@
 <img align="center" alt="Gus-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Gus-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Gus-Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg">
+<img align="center" alt="Gus-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 <img align="right" alt="Gus-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1000858323026989078/1001125321556373544/img.png?width=676&height=676">
 
 ## Where find me
