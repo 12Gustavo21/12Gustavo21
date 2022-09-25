@@ -1,4 +1,5 @@
-## Hello, I'm Gustavo Almeida, welcome <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">😊
+<h1 align="center" >Hello, I'm Gustavo Almeida, welcome <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> 😊</h1>
+
 
 <div align="center">
   <a href="https://github.com/12Gustavo21">
@@ -20,6 +21,12 @@
   <img align="center" alt="Gus-Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg">
   <img align="center" alt="Gus-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   </div>
+  
+  
+<h1 align="center">About Me </h1>
+<div>
+  <p align="center" width="300px">Hi! My name is Gustavo. I am currently a student of Front-End Development at the technology school "Vai Na Web". At the moment I am delving into React knowledge.</p>
+</div>
 
 
   <h1 align="center" >Where find me</h1> 
@@ -30,6 +37,6 @@
   <a href="https://www.linkedin.com/in/gustavo-almeida-421044246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](https://github.com/12Gustavo21/12Gustavo21/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/12Gustavo21/12Gustavo21/blob/output/github-contribution-grid-snake.svg) 
 </div>
+<h1 align="center">🤗 See ya 🤗</h1>
