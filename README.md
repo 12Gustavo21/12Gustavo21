@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated in the program "Vai na Web". Right now, I'm de-depth in react's knowledge.
+Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated in the program "Vai na Web". Right now, I'm de-depth in React knowledge.
 
 
 ## 🌐 Socials:
@@ -18,10 +18,7 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=12Gustavo21&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
  
   ![Snake animation](https://github.com/12Gustavo21/12Gustavo21/blob/output/github-contribution-grid-snake.svg) 
