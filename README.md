@@ -1,4 +1,4 @@
-<h1 align="center" >Hello, I'm Gustavo Almeida, welcome <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😊</h1>
+<h1 align="center" >Hello, I'm Gustavo Almeida, welcome 😊</h1>
 
 
 # 💫 About Me:
