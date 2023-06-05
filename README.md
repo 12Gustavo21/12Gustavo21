@@ -14,8 +14,8 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
 
 # 📊 GitHub Stats:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&count_private=true&hide_border=true&title_color=81c332&icon_color=81c332&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&layout=compact&hide_border=true&title_color=81c332&text_color=c9d1d9&bg_color=0d1117" />
+ <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### ✍️ Random Dev Quote
