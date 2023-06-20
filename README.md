@@ -14,8 +14,9 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
 
 # 📊 GitHub Stats:
 <div align="center">  
- <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&layout=compact&langs_count=7&theme=dark"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+ <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=12Gustavo21&theme=dark&hide_border=false"/> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### ✍️ Random Dev Quote
