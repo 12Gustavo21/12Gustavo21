@@ -26,8 +26,7 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
 [![](https://visitcount.itsvg.in/api?id=12Gustavo21&icon=0&color=3)](https://visitcount.itsvg.in)
 </div>
   
- 
-  ![Snake animation](https://github.com/12Gustavo21/12Gustavo21/blob/output/github-contribution-grid-snake.svg) 
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/12Gustavo21/12Gustavo21/output/github-contribution-grid-snake.svg" />
 </div>
 <h1 align="center">🤗 See ya 🤗</h1>
 
