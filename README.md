@@ -27,7 +27,7 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
 </div>
   
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12Gustavo21/12Gustavo21/output/github-contribution-grid-snake-dark.svg">
+  <source srcset="https://raw.githubusercontent.com/12Gustavo21/12Gustavo21/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/12Gustavo21/12Gustavo21/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
