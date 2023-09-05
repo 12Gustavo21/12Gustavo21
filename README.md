@@ -5,7 +5,6 @@
 # 💫 About Me:
 Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated in the program "Vai na Web". Right now, I'm de-depth in React knowledge.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gualmda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/12gustavo21)
 
@@ -14,8 +13,8 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
 
 # 📊 GitHub Stats:
 <div align="center">  
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&preferLogin=true"> <img height="150em" alt="12Gustavo21's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/12Gustavo21?cardType=github&theme=dark&preferLogin=true" />  </a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&layout=compact&langs_count=8&theme=dark"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ## 🏆 GitHub Trophies
