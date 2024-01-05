@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=81c332&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c72e9&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=81c332&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gustavo+Almeida;Welcome😊;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1c72e9&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gustavo+Almeida;Welcome😊;)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated in the program "Vai na Web". Right now, I'm de-depth in React knowledge.
@@ -13,15 +13,15 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
 
 # 📊 GitHub Stats:
 <div align="center">  
-   <img src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
+   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=holi)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=12Gustavo21&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=12Gustavo21&limit=5&theme=holi&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
