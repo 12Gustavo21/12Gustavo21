@@ -13,15 +13,15 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
 
 # 📊 GitHub Stats:
 <div align="center">  
-   <img src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
-   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+   <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=holi)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=12Gustavo21&limit=5&theme=holi&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=12Gustavo21&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
