@@ -23,9 +23,6 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=12Gustavo21&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 [![](https://visitcount.itsvg.in/api?id=12Gustavo21&icon=5&color=1)](https://visitcount.itsvg.in)
 </div>
   
