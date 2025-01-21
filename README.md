@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c72e9&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c3b89c&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1c72e9&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gustavo+Almeida;Welcome😊;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c3b89c&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gustavo+Almeida;Welcome😊;)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated in the program "Vai na Web". Right now, I'm de-depth in React knowledge.
