@@ -13,17 +13,12 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
 
 # 📊 GitHub Stats:
 <div align="left">  
-   <img src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-   <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&bg_color=c3b89c&title_color=000000&icon_color=ffffff&include_all_commits=true&count_private=true" />
+   <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&bg_color=c3b89c&title_color=000000&icon_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=12Gustavo21&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=12Gustavo21&icon=5&color=1)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=12Gustavo21&limit=5&bg_color=c3b89c&title_color=000000&icon_color=ffffff&combine_all_yearly_contributions=true)
 </div>
   
 <picture>
@@ -32,6 +27,6 @@ Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated i
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/12Gustavo21/12Gustavo21/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-<h1 align="center">🤗 See ya 🤗</h1>
+<h1 align="center" style="color: red">🤗 See ya 🤗</h1>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c72e9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c3b89c&height=120&section=footer"/>
