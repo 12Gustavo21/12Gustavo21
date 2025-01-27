@@ -6,7 +6,7 @@
 Hi! My name is Gustavo. I am currently a Front-End Developer. Right now, I'm de-depth in React knowledge.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gualmda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/12gustavo21)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white)](https://instagram.com/gualmda) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge&logoColor=fff)](https://www.linkedin.com/in/12gustavo21)
 
 # 💻 Tech Stack:
 ## Linguagens de Programação e Marcação
