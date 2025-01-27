@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c3b89c&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gustavo+Almeida;Welcome😊;)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Hi! My name is Gustavo. I am currently a Front-End Junior Developer. Graduated in the program "Vai na Web". Right now, I'm de-depth in React knowledge.
+Hi! My name is Gustavo. I am currently a Front-End Developer. Right now, I'm de-depth in React knowledge.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gualmda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/12gustavo21)
