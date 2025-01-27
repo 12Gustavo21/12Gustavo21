@@ -34,7 +34,7 @@ Hi! My name is Gustavo. I am currently a Front-End Developer. Right now, I'm de-
    <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&bg_color=c3b89c&title_color=000000&icon_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=12Gustavo21&limit=5&bg_color=c3b89c&title_color=000000&icon_color=ffffff&combine_all_yearly_contributions=true)
 </div>
   
