@@ -30,8 +30,8 @@ Hi! My name is Gustavo. I am currently a Front-End Developer. Right now, I'm de-
 
 # 📊 GitHub Stats:
 <div align="left">  
-   <img src="https://github-readme-stats.vercel.app/api?username=12Gustavo21&show_icons=true&bg_color=c3b89c&title_color=000000&icon_color=ffffff&include_all_commits=true&count_private=true" />
-   <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12Gustavo21&bg_color=c3b89c&title_color=000000&icon_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ayu-mirage&fontFamily=42dot%20Sans&preferLogin=false">    <img  alt="12Gustavo21's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/12Gustavo21?cardType=github&theme=ayu-mirage&fontFamily=42dot%20Sans&preferLogin=false" />  </a>
+   <img src="https://streak-stats.demolab.com?user=12Gustavo21&theme=ayu-mirage&hide_border=true" alt="12Gustavo21's GitHub Stats" />
 </div>
 
 # 🔝 Top Contributed Repo
